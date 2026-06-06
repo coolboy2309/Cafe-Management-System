@@ -33,21 +33,16 @@ A full-stack web application designed to streamline cafe operations, including o
 ## Screenshots
 
 ### Dashboard
-
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Order Management
-
-![Orders](screenshots/order-management.png)
+![Orders](Screenshots/order-management.png)
 
 ### Menu Management
-
-![Menu](screenshots/menu-management.png)
+![Menu](Screenshots/menu-management.png)
 
 ### Login
-
-![Login](screenshots/login.png)
-
+![Login](Screenshots/Login.png)
 ## Installation
 
 ### Clone Repository
