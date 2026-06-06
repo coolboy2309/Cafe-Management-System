@@ -1,0 +1,17 @@
+/* your styles go here */
+
+/* stick the header to top */
+header.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+/* push down page content so it’s not hidden */
+body {
+    padding-top: 70px;
+    /* adjust to your header height */
+}
+
