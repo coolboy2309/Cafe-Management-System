@@ -1,16 +1,32 @@
 # Cafe Management System
 
+🚧 **Project Status:** Under Development
+
+📌 **Current Version:** v1.0.0 Beta
+
 A full-stack web application designed to streamline cafe operations, including order management, customer handling, menu management, and reporting.
+
+## Current Development Progress
+
+This system is actively under development. New features, improvements, and bug fixes are being added continuously.
+
+### Planned Features
+
+* Enhanced reporting system
+* Improved dashboard analytics
+* Notification system
+* Performance optimization
+* Better UI/UX improvements
 
 ## Features
 
-- User Authentication
-- Dashboard Analytics
-- Order Management
-- Menu Management
-- Customer Management
-- Sales Reports
-- REST API Integration
+* User Authentication
+* Dashboard Analytics
+* Order Management
+* Menu Management
+* Customer Management
+* Sales Reports
+* REST API Integration
 
 ## Technologies Used
 
@@ -43,6 +59,11 @@ A full-stack web application designed to streamline cafe operations, including o
 
 ### Login
 ![Login](Screenshots/Login.png)
+
+## Important Note
+
+This project is currently under active development and may receive regular updates, improvements, and bug fixes.
+
 ## Installation
 
 ### Clone Repository
@@ -79,7 +100,7 @@ php artisan key:generate
 
 ### Run Database Migrations
 
-Import the Database from Database sql Folder
+Import the SQL file from the Database sql folder into MySQL.
 
 ### Start Laravel Server
 
