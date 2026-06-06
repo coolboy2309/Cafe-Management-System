@@ -126,3 +126,7 @@ npm run dev
 ## Author
 
 Abenezer Abadi
+
+## Contact
+abenu755@gmail.com
+
