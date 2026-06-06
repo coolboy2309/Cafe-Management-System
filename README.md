@@ -34,7 +34,7 @@ A full-stack web application designed to streamline cafe operations, including o
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Order Management
 
